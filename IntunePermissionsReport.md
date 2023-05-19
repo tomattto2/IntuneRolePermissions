@@ -3,7 +3,7 @@
 ### Application Manager
 
 - **Permission:** Managed apps
-- **Action:**
+-                 **Action:**
 Create
 
 - **Permission:** Mobile apps
